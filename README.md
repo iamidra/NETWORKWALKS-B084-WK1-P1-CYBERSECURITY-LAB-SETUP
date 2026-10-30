@@ -204,11 +204,14 @@ All security assessments should be conducted against systems owned by the user o
 
 ---
 
+---
+
 ## 👤 Author
 
 **Idra Shabani Mkumbanya**  
 Cybersecurity Intern, Batch B084
-**LinkedIn:** [Idra Mkumbanya](www.linkedin.com/in/idra-mkumbanya-469702207)
+
+**LinkedIn:** [Idra Mkumbanya](https://www.linkedin.com/in/idra-mkumbanya-469702207)
 
 ---
 
